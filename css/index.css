@@ -1,0 +1,22 @@
+.center{
+    margin: 0 auto; /* 水平居中 */
+}
+
+.text{
+    color:#757575;
+    font-weight:bold;
+}
+
+.display{
+    display: block;
+}
+
+.hidden{
+    display: none;
+}
+
+.center-h{
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+ }
